@@ -1,0 +1,48 @@
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color:white;
+    background-color:gray;
+    font-style: bold; 
+}
+
+#h1_week2discussion {
+                     background-color:darkseagreen ;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:30px;
+    color:pink;
+    font-style:bold;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+    color:pink;
+    font-style: bold;
+}
+
+body {
+      background-color:darkseagreen;
+}
+
+p {
+    line-height:200%;
+    color:black;
+}
+
+img {
+     border:solid 5px blue;
+     padding: 10px;
+     margin: 20px;
+     border-top-right-radius: 30px;
+}
+
+li {
+    display:inline;
+    margin-left: 50px;
+
+}
